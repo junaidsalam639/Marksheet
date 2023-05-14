@@ -1,0 +1,41 @@
+body{
+    box-sizing: border-box;
+    background-color: #fcfcfd;
+}
+input{
+    margin: 20px;
+    padding: 12px;
+    font-size: 15px;
+    width: 300px;
+}
+label{
+    
+    width: 125px;
+    font-size: 25px;
+    color: #5c5d5e;
+}
+button{
+    width: 300px;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 12px;
+    color: #fff;
+    border: 2px solid black;
+    background-color: #5c5d5e;
+    transition: 2s;
+}
+button:hover{
+    background-color: #fff;
+    color: #5c5d5e;
+}
+h1{
+    color: #5c5d5e;
+}
+
+
+
+
+
+
+
+
